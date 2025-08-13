@@ -1,0 +1,17 @@
+
+
+Overview
+
+I built a Vanilla JavaScript weather app in SheCodes Plus, an advanced 8-week JavaScript coding workshop. Building upon my previously-gained knowledge, I also became skilled in Bootstrap, API’s, real-life development workflow, hosting, and advanced JavaScript. I combined all of these skills to create a fully-functioning weather app.
+
+This project is a simple, interactive weather forecast application designed to provide real-time weather information. It uses basic HTML and CSS to create a visually appealing and user-friendly interface and vanilla JavaScript to fetch and display weather data dynamically. The app leverages an external API, to retrieve accurate weather information for user-specified locations.
+
+Features
+
+Responsive Design: The layout adapts to different screen sizes for a consistent experience on desktop and mobile devices.
+
+Clean Aesthetics: Styled with modern CSS to present weather details in an engaging and intuitive way.
+
+Lightweight: Built with minimal code for fast loading and easy maintenance.
+
+Dynamic Data Fetching: Utilizes JavaScript to interact with a weather API, providing real-time updates based on user input.
